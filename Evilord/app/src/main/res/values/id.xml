@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name = "gold_v" type = "id">gold_v</item>
+    <item name = "score_v" type = "id">score_v</item>
+    <item name = "user_name_edit" type = "id">user_name_edit</item>
+
+    <item name = "first" type = "id">1</item>
+    <item name = "second" type = "id">2</item>
+    <item name = "third" type = "id">3</item>
+    <item name = "fourth" type = "id">4</item>
+    <item name = "fifth" type = "id">5</item>
+    <item name = "sixth" type = "id">6</item>
+    <item name = "seventh" type = "id">7</item>
+    <item name = "eighth" type = "id">8</item>
+    <item name = "ninth" type = "id">9</item>
+    <item name = "tenth" type = "id">10</item>
+
+    <item name = "first1" type = "id">11</item>
+    <item name = "second1" type = "id">21</item>
+    <item name = "third1" type = "id">31</item>
+    <item name = "fourth1" type = "id">41</item>
+    <item name = "fifth1" type = "id">51</item>
+    <item name = "sixth1" type = "id">61</item>
+    <item name = "seventh1" type = "id">71</item>
+    <item name = "eighth1" type = "id">81</item>
+    <item name = "ninth1" type = "id">91</item>
+    <item name = "tenth1" type = "id">101</item>
+</resources>

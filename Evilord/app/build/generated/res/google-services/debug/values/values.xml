@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">566721963669-6hqpa3l74i99s5hq1b7i87a2l8gnocsl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://nakniklord.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">566721963669</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9qA7X-9_Ey76IpA_iEWOpRLn6Meu0Lug</string>
+    <string name="google_app_id" translatable="false">1:566721963669:android:5989d118f6857ac8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9qA7X-9_Ey76IpA_iEWOpRLn6Meu0Lug</string>
+    <string name="google_storage_bucket" translatable="false">nakniklord.appspot.com</string>
+</resources>

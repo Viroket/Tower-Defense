@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_15bbe1863b0202fe3613a1f18a751473014073af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_770bdb44f0e37d271174cb2563b023c71ec16f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_b9beac4e88556c5ddf07edf1347393e1eca6ceea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_a916d02b1b82d19df1c970022ac5d078972fd271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_451221ebf439739ea56df810619f35ce9e499105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_de59b038df10eb82459f8ac6935efc4385ff9ada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_6b7ccf61f9a6c733c567824814600fc75f083fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_0f5c32c52eb514653b5b65fc62548c5e1b2fa1a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_2f5a0956873d13b5c65dc15e0ad9e92ee5a7506c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_ec9fc963c3c38b70bf6a05d2c1eae4f288bf08be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_12f0353181f77500dd4c79fc4cc9d3ce0daff0b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_348b4a2189cfd0888b767a27fde311530dd42f51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_ef1fc6f4afabcbc29a14a09e55980c2221eb6c75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_1be7d6569e36e3a1be0d309572cc3a935cc42d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_e4783e47d550a0d2436b11fb98937e784264d96a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_e3193cc13460ee4749feb3a14897854b2a381bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_93e42ff6d939303413254778a9a1b329a6cfb472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_15a82c10b70629115016b7457dfffa29bd813be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_3457b795f619859053415bda1a515149f7e1b23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_a316c7499f3bee6d93153f5cd3ae605833804e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_fc33e9a860608e8fc15b48339201ce8a0aee4b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_4065d374d6197ca9b34ee47ca94f8fc6915b2152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Tal\Desktop\201311644_204093603\Evilord\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_185ccb8493a2d02990049a01db34c09d88167fd6.jar" />
+    </item>
+
+</items>

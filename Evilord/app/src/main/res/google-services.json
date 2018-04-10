@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "566721963669",
+    "firebase_url": "https://nakniklord.firebaseio.com",
+    "project_id": "nakniklord",
+    "storage_bucket": "nakniklord.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566721963669:android:5989d118f6857ac8",
+        "android_client_info": {
+          "package_name": "naknikim.evilord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566721963669-6hqpa3l74i99s5hq1b7i87a2l8gnocsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qA7X-9_Ey76IpA_iEWOpRLn6Meu0Lug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

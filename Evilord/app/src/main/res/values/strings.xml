@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Evilord</string>
+    <string name="attacking">attacker</string>
+    <string name="game_time">GameTime</string>
+    <string name="win_or_lose">WinOrLose</string>
+    <string name="bundle_key">bundleKey</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+
+    <string name="arrow_description">Shoots shurikens at normal rate</string>
+    <string name="cannon_description">Does Splash damage at slow rate</string>
+    <string name="ice_description">No damage but slows enemies down</string>
+    <string name="air_description">Does good single target damage</string>
+    <string name="flame_description">Burns multiple enemies</string>
+
+    <string name="soldier_description">Basic unit</string>
+    <string name="knight_description">Slow armored unit</string>
+    <string name="priest_description">Can heal nearby units</string>
+    <string name="mage_description">Can freeze towers</string>
+    <string name="lord_description">High HP boss unit</string>
+
+    <string name="on_cooldown">is still on cooldown</string>
+    <string name="health">Health : </string>
+    <string name="gold">Gold : </string>
+    <string name="wave">Wave : </string>
+    <string name="waiting_room">Waiting Room : \"</string>
+    <string name="another_player">\" Waiting for another player to join</string>
+    <string name="can_not_place_tower">Cannot place tower here</string>
+    <string name="not_enough_gold">Not Enough Gold For </string>
+    <string name="tower">Tower </string>
+    <string name="required"> Required</string>
+    <string name="submit">Submit</string>
+    <string name="user_name_hint">Enter User Name</string>
+
+    <string name="place_header">Place</string>
+    <string name="name_header">Name</string>
+    <string name="time_header">Time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
